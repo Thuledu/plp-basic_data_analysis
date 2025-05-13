@@ -15,7 +15,9 @@
 
 ## Task 3: Data Visualization
 ---------------------------
-#### 1.	Create at least four different types of visualizations: 
+#### 1.	Create at least three different types of visualizations: 
 o	Bar chart showing the comparison of a numerical value across categories (e.g., average petal length per species).
+
 o	Histogram of a numerical column to understand its distribution.
+
 o	Scatter plot to visualize the relationship between two numerical columns (e.g., sepal length vs. petal length).
